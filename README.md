@@ -8,5 +8,5 @@ Just for testing: https://www.jsdelivr.com/
 https://cdn.jsdelivr.net/gh/user/repo@version/file
 ```
 
-- https://cdn.jsdelivr.net/gh/zhsh9/imqwe/poc0.js
 - https://cdn.jsdelivr.net/gh/zhsh9/imqwe/poc1.js
+- https://cdn.jsdelivr.net/gh/zhsh9/imqwe/poc2.js
